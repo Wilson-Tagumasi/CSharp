@@ -1,0 +1,12 @@
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\bin\Debug\Student Information.accdb
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student_Information_System.Form1.resources
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student_Information_System.Properties.Resources.resources
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student Information System.csproj.GenerateResource.Cache
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student Information System.exe
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student Information System.pdb
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student_Information_System.LoginForm.resources
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student Information System.csprojResolveAssemblyReference.cache
+C:\Users\Dev Ideyalab\OneDrive\Desktop\c#\Student Information System\Student Information System\obj\x86\Debug\Student_Information_System.StudentDashboard.resources
